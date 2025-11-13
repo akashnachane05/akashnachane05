@@ -77,7 +77,7 @@ I'm **Akash**, an AI and Full-Stack developer passionate about building intellig
 
 ---
 
-# 📊 GitHub Stats (Trophies Removed)
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashnachane05&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
@@ -88,7 +88,7 @@ I'm **Akash**, an AI and Full-Stack developer passionate about building intellig
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnachane05&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
-<!-- ⭐ Trophy section removed as requested -->
+
 
 ---
 
