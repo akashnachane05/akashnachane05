@@ -21,7 +21,7 @@
 I'm **Akash**, an AI and Full-Stack developer passionate about building intelligent systems that combine  
 **Machine Learning, Computer Vision, and Scalable Web Apps**.
 
-- 🎓 B.Tech IT student at **VIIT Pune** (CGPA: 7.94)  
+- 🎓 B.Tech IT student at **VIIT Pune** (CGPA: 8.24)  
 - 🧠 Work areas: Deep Learning, Pose Estimation, MERN, Cloud  
 - 📝 **Published IEEE Xplore Research Author**  
 - 🏅 Finalist at **TechnoFEA 2.0** & **TechFiesta 2025**
